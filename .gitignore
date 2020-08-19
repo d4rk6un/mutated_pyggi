@@ -1,6 +1,9 @@
 # Compiled python modules.
 *.pyc
 
+# IntelliJ .idea add
+.idea
+
 paper/
 
 ast_test.py
