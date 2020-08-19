@@ -9,6 +9,9 @@ paper/
 ast_test.py
 line_test.py
 
+# IntelliJ IDEA
+.idea
+
 # Setuptools distribution folder.
 /dist/
 
